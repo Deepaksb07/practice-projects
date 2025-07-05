@@ -1,1 +1,2 @@
 # practice-projects
+I designed and developed a responsive personal portfolio website using HTML, CSS, and JavaScript. The website showcases my skills, experience, and projects in a clean and professional layout. It features smooth navigation, a mobile-friendly design, and interactive elements for better user experience.
